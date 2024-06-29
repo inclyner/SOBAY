@@ -1,0 +1,2 @@
+12 colher cozinha 3 2 10 rui -
+3 garfo cozinha 4 2 4 maria rui
